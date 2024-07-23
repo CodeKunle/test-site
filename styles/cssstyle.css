@@ -1,0 +1,26 @@
+h1{color:blueviolet;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-align: center;
+   font-size: 60px;
+   margin: 0 auto;
+   padding: 20px 0;
+   text-shadow: 3px 3px 1px yellow;
+   }
+em{color:blue;}
+p{font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 23px;
+  word-spacing: 2px;
+  margin: 20px auto;
+  width: 595 px;}
+li{font-size: 23px;}  
+a:hover{color: red;}
+html{background-color: bisque;
+     width: 620px;
+     margin: 0 auoto;}
+body{background-color: gray;
+     margin: 0 auto;
+     width: 600px;
+     border: 2px black;
+     padding: 0 5px 5px 5px;}
+img{display: block;
+    margin: 0 auto;}     
